@@ -1,6 +1,6 @@
 import { driver, windowsAppDriverCapabilities } from 'selenium-appium'
 
-const appId = 'Microsoft.WindowsCalculator_8wekyb3d8bbwe!App'
+const appId = 'Microsoft.WindowsAlarms_8wekyb3d8bbwe!App'
 
 class TestEnviroment { 
   setup() {
